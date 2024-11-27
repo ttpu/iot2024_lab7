@@ -33,4 +33,4 @@ After successfull test, change it:
 
 Use "polling" methods instead of delays.
 
-* Upload the new sketch over the wifi network, not using usb cable.
+* Upload the new sketch over the internet (through http), without using usb cable.
