@@ -2,9 +2,9 @@
 
 ## Team N:
 
-Student 1: name,surname,id
+* Student 1: name,surname,id
 
-Student 2: name,surname,id
+* Student 2: name,surname,id
 
 etc...
 
