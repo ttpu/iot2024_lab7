@@ -1,5 +1,13 @@
 # Lab 7 - IoT 2024
 
+## Team N:
+
+Student 1: name,surname,id
+
+Student 2: name,surname,id
+
+etc...
+
 ![image](https://github.com/user-attachments/assets/aded3d8a-1bd3-49ea-a69e-b3bd215e8077)
 
 ## Task 1:
